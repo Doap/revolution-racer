@@ -1,5 +1,6 @@
 <html>
 <head>
+<title>Revolution Racer</title>
 <style>
 .container .row {margin:20px;text-align:center;}
 .container .row img {margin:0 20px;}
